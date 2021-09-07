@@ -1,0 +1,12 @@
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*| PROGRAMACION |*-----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+-> Variables: son como las cajas con su propio nombre y donde podemos guardar cualquier cosa como: texto, numero, objetos, booleanos, etc. 
+Tenemos tres tipos: var, let y const.
+-> Strings: es un tipo de dato que esta entre comillas como: "Daniel", 'Hola mundo', "7", etc. 
+-> Funciones: es un conjunto de instrucciones que realiza acciones y que contiene un puerta de entrada de datos (parametros) y una de salida (return).
+Debe llevar la palabra reservada function antes del nombre, ejemplo: Necesito sumar (function sumar) 1 + 2 (parametros) y conocer el resultado (return); }.
+-> if: es un condicional con el cual podemos comprobar y comparar datos, ejemplo: si (if) Daniel se comio el almuerzo esta lleno sino (else) tiene hambre.
+-> Booleanos: es un tipo de dato que indica si algo es verdadero (true) o falso (false).
+ 
