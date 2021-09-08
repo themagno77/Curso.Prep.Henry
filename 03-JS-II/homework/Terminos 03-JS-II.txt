@@ -1,0 +1,10 @@
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*| PROGRAMACION |*-----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+-> For: es un bucle con el cual podemos repetir una accion una cantidad de veces. 
+Para hacerlo necesitamos indicar el inicio, el final y el incremento.
+-> &&: operador Y (and) que nos permite evaluar expresiones y obtener verdadero (true) si todas son verdaderas, si una sola es falsa devuelve falso (false).
+-> ||: operardor o (or) que nos permite evaluar expresiones y obtener verdadero (true) si una es verdadera, si ninguna es verdadera devuelve falso (false).  
+-> !: operador no (not) que nos permite evaluar expresiones y es contrario a lo que tenemos. 
+ 
