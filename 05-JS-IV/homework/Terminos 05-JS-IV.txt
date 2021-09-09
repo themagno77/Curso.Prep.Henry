@@ -1,0 +1,13 @@
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*| PROGRAMACION |*-----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+-> Objetos: es una coleccion de propiedades (muy parecida a los arrays) que tienen la estructura clave:valor. 
+-> Propiedades: son los atributos (variables) de los objetos y en estos podemos guardar cualquier tipo de dato: texto, numero, booleano, etc. 
+Su estructura son clave:valor, ejemplo: nombre:"Daniel Calderon".
+-> Metodos: son las acciones (funciones) que realizamos en los objetos. Su estructura son clave:valor, ejemplo: sumar: function (){}.
+-> For ...in: Es un bucle especial para recorrer cada clave de los objetos.
+-> Notacion de puntos vs notacion de corchetes: La notación de punto nos permite llamar a la propiedad con nombre del objeto, un punto y el nombre de la clave. 
+La notacion de corchete nos permite llamar a la propiedad mediante corchetes ([]) y su nombre en comillas. 
+La gran diferencia es que la notacion en corchetes nos permite utilizar una variable entre los corchetes para buscar o modificar una propiedad.
+ 
