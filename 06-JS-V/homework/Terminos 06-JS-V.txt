@@ -1,0 +1,8 @@
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*| PROGRAMACION |*-----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+-> Prototype: es un metodo (funcion) que se establece en una clase, permitiendo interactuar con cada objeto de la clase. 
+Por ejemplo: Persona.prototype.saludar = function () { }; 
+-> _Constructors_: es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
+ 
