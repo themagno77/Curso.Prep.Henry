@@ -1,0 +1,14 @@
+
+#fondo { 
+    position: fixed; 
+    background: url("https://previews.123rf.com/images/kebox/kebox2010/kebox201000042/156745399-.jpg");
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+}
+#contenido { position: absolute; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; }
+h1 { color: #900; }
+img { width: 400px; }
+#thirdDiv { height: 600px; width: 500px; background: #900; padding: 50px; border: 5px dashed #500; }
+#spanId { font-size: 18px; margin: 50px; }
